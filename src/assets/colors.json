@@ -1,0 +1,24 @@
+{
+  "colors": {
+    "light": {
+      "primary": "#FDF6F0",
+      "support": "#FF4D00",
+      "secondary": "#787878",
+      "txtOnPrimary": "#343434",
+      "lightPrimary": "#FFE2C9",
+      "score": "#FFAE8B",
+      "darkPrimary": "#585858",
+      "lightbutn": "#FF4D0040",
+      "check": "#13A009",
+      "error": "#FF0000",
+      "dash": "#606060",
+      "circlee": "#C2BEBE",
+      "gray": "#f7f7f7",
+      "white": "#fff",
+      "black": "#000"
+    },
+    "dark": {
+      
+    }
+  }
+}
